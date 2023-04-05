@@ -3,6 +3,7 @@
 body {
     font-family: 'Alkatra', cursive;
     overflow-x: hidden;
+    background-color: aliceblue;
 }
 
 .img-logo {
